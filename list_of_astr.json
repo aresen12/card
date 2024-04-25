@@ -1,0 +1,49 @@
+[
+  {
+    "spec": [
+      "инженер-исследователь",
+      "инженер по терраформированию"
+    ],
+    "img": "static/img/Howard William.jpg",
+    "name": "Howard William"
+  },
+  {
+    "spec": [
+      "специалист по радиационной защите",
+      "астрогеолог"
+    ],
+    "img": "static/img/Энди Уир.jpg",
+    "name": "Энди Уир"
+  },
+  {
+    "spec": [
+      "оператор марсохода",
+      "штурман"
+    ],
+    "img": "static/img/Вэнтли Марк.jpg",
+    "name": "Вэнтли Марк"
+  },
+  {
+    "spec": [
+      "киберинженер",
+      "пилот дронов"
+    ],
+    "img": "static/img/Bean Sean.jpg",
+    "name": "Bean Sean"
+  },
+  {
+    "spec": [
+      "врач",
+      "экзобиолог"
+    ],
+    "img": "static/img/Kapoor Venkat.jpg",
+    "name": "Kapoor Venkat"
+  },
+  {
+    "spec": [
+      "строитель","пилот"
+    ],
+    "img": "static/img/Scott Ridley.jpg",
+    "name": "Scott Ridley"
+  }
+]

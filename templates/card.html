@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+{% set member = data | random %}
+<div style="margin-left:25vw; max-width:40vw;">
+<h2>{{member['name']}}</h2>
+<img src="{{member['img']}}"  style="height: 70vh;max-width:40vw;">
+<div>
+{% for spec in member['spec'] | sort %}
+{{spec}},
+{% endfor %}
+</div>
+</div>
+{% endblock %}
